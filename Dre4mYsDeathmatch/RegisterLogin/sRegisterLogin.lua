@@ -1,7 +1,7 @@
 RegisterLogin = {payday = {}}
 
 --// Datenbankverbindung herstellen
-handler = dbConnect("mysql","dbname=dre4mysdeathmatchhost=127.0.0.1","root","")
+handler = dbConnect("mysql","dbname=dre4mysdeathmatch;host=127.0.0.1","root","")
 
 if(handler)then
 	outputDebugString("Es konnte eine Datenbankverbindung hergestellt werden")
@@ -165,4 +165,5 @@ function RegisterLogin.spawnEingangshalle(player)
 	toggleAllControls(player,true)
 	triggerClientEvent(player,"setGamespeed",player,1)
 	setPedHeadless(player,false)
+
 end
