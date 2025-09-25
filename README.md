@@ -1,4 +1,4 @@
-# Dre4mYsDeathmatch 💥
+# Dre4mY's Deathmatch 💥
 
 A classic Deathmatch gamemode developed in 2020.   
 Development has been discontinued; this upload serves mainly for archiving.
