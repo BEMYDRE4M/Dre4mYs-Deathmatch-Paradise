@@ -15,4 +15,4 @@ Features:
 - 🌟 Premium System for enhanced gameplay
 - 🌐 Language Support: Easily add new languages
 
-Currently, the gamemode is only available in German.
+The gamemode is  in German.
