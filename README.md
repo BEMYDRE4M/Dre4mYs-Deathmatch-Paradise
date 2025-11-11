@@ -1,7 +1,7 @@
 # Dre4mY's Deathmatch Paradise 💥
 
 A classic Deathmatch gamemode developed in 2020.   
-Development has been discontinued; this upload serves mainly for archiving.
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 Features:
 - 🔑 MySQL Register/Login system
