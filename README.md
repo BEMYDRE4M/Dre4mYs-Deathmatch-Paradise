@@ -1,4 +1,4 @@
-# Dre4mY's Deathmatch Paradise 💥
+# Dre4mY's Deathmatch Paradise
 
 A classic Deathmatch gamemode developed in 2020.   
 Development and support have been discontinued; this upload serves mainly for archiving.
