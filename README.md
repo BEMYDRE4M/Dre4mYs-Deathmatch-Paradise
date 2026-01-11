@@ -1,7 +1,6 @@
 # Dre4mY's Deathmatch Paradise
 
 A small Deathmatch gamemode developed in 2020.   
-Development and support have been discontinued; this upload serves mainly for archiving.
 
 https://multitheftauto.com
 
